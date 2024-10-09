@@ -1,0 +1,3 @@
+C:/Users/HP/OneDrive/Desktop/ALGORITMA DAN STURUKTUR DATA/tugas_4/cmake-build-debug/CMakeFiles/tugas_4.dir
+C:/Users/HP/OneDrive/Desktop/ALGORITMA DAN STURUKTUR DATA/tugas_4/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/HP/OneDrive/Desktop/ALGORITMA DAN STURUKTUR DATA/tugas_4/cmake-build-debug/CMakeFiles/rebuild_cache.dir
